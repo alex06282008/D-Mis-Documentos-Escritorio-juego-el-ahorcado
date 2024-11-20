@@ -2,7 +2,7 @@
 Bienvenidos a todos a mi blog. Os presento el juego del ahorcado. Con este juego, podreis jugar con
 vuestro amigo a ver si adivina vuestra palabra. Vosotros debereis introducir vuestar palabra a
 adivinar, y vuestro adversario, debera introducir la letra que quiere a medida que van pasando los
-turnos. ¿Guay, verdad? Espero que lo disfruteis mucho
+turnos.
 */
 
 #include <stdio.h>
